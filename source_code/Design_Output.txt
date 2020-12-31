@@ -1,0 +1,20 @@
+Chebyshev - 6th Order 
+Passband Variations: 3.0 dB 
+
+Pole Locations: 
+    p1 = -wp * [0.0382 + j0.9764] 
+    p2 = -wp * [0.1044 + j0.7148] 
+    p3 = -wp * [0.1427 + j0.2616] 
+    p4 = -wp * [0.1427 + j-0.2616] 
+    p5 = -wp * [0.1044 + j-0.7148] 
+    p6 = -wp * [0.0382 + j-0.9764] 
+
+Wo Frequencies: 
+    wo1 = 0.9772 * wp 
+    wo2 = 0.7224 * wp 
+    wo3 = 0.2980 * wp 
+
+Q Values: 
+    Q1 = 12.7801 
+    Q2 = 3.4581 
+    Q3 = 1.0443 
