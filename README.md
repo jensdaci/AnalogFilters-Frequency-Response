@@ -11,4 +11,4 @@ The following plots have been generated using the MATLAB scripts included in thi
 
 ## Output Calculations
 The following file contains the output results from the calculations performed in the scripts: 
-[[Output_File]](images/Design_Output.txt)
+[[Output_File]](source_code/Design_Output.txt)
